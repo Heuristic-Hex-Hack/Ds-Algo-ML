@@ -122,14 +122,13 @@ GitHub will alert you that you are able to merge the two branches because there 
 You have made it till the end. Kudos to you!!
 
 ## For any more issues and queries,feel free to reach out to us. Rememeber, collaboration is the key to open-source. 
-**Project Maintainer:**<br>
-<a href="https://github.com/uddeshyatyagi"><img alt="" src="https://avatars.githubusercontent.com/uddeshyatyagi" width="150px"><br>
+**Project Maintainers:**<br>
+1.<a href="https://github.com/uddeshyatyagi"><img alt="" src="https://avatars.githubusercontent.com/uddeshyatyagi" width="150px"><br>
 **Uddeshya Tyagi**💻 </a><br>
 **About Me**<br>
  Hi!!!,I am Uddeshya Tyagi a Computer Science undergrad student.I am in love with open-source and its culture so come I with this repository :blush:
  <br> Let's get connect !!?<br>
- **Project Maintainer:**<br>
-<a href="https://github.com/Avish-Tripathi"><img alt="" src = "https://avatars1.githubusercontent.com/Avish-Tripathi" width="150px"><br>
+2.<a href="https://github.com/Avish-Tripathi"><img alt="" src = "https://avatars1.githubusercontent.com/Avish-Tripathi" width="150px"><br>
 **Avish Tripathi**💻 </a><br>
 **About Me**<br>
  Hello!! I am Avish Tripathi an Undergrad student.I would like to contribute on open-source and its culture. :blush:
