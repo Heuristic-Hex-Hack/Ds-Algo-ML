@@ -128,3 +128,9 @@ You have made it till the end. Kudos to you!!
 **About Me**<br>
  Hi!!!,I am Uddeshya Tyagi a Computer Science undergrad student.I am in love with open-source and its culture so come I with this repository :blush:
  <br> Let's get connect !!?
+ **Project Maintainer:**<br>
+<a href="https://github.com/Avish-Tripathi"><img alt="" srchttps://avatars1.githubusercontent.com/u/54525715?s=400&v=4" width="150px"><br>
+**Avish Tripathi**💻 </a><br>
+**About Me**<br>
+ Hello!,I am Avish Tripathi an Undergrad student.I would like to contribute on open-source and its culture. :blush:
+ <br>
