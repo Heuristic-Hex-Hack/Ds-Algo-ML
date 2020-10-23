@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-#include<conio.h>
 class complex
 {
     int a,b;
@@ -36,5 +35,4 @@ int main()
     c3=c1+c2;
     cout<<"Their resulting complex after addition: "<<endl;                // OR c3=c1.operator+(c2);
     c3.show();
-    getch();
 }
